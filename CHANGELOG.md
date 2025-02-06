@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.11.0](https://github.com/teletha/cointoss/compare/v1.10.0...v1.11.0) (2025-02-06)
+
+
+### Features
+
+* add BERA spot on Bybit and Binance ([2a4c5bd](https://github.com/teletha/cointoss/commit/2a4c5bdfe45d53dba28f189585409da6a5621512))
+* add SOLV spot market on Bybit and Binance ([5d43f61](https://github.com/teletha/cointoss/commit/5d43f614a1e7a5d3262a7a144bcb83cdfa82b4b0))
+* add TRUMP market on bybit and binanceF ([2c1f997](https://github.com/teletha/cointoss/commit/2c1f997bcfa210574cca0da66e2257f9a0e99dbc))
+
 ## [1.10.0](https://github.com/teletha/cointoss/compare/v1.9.0...v1.10.0) (2024-12-31)
 
 
